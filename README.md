@@ -1,1 +1,1 @@
-# .github
+# About ShopFoodie AI
